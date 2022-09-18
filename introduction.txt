@@ -1,2 +1,3 @@
 Name: Vuong
 Hobby: Playing game, football, soccer
+University: BK, HCMUT
